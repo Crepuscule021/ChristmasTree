@@ -16,18 +16,11 @@
 
 ## 🚀 快速开始 (How to Run)
 
-由于浏览器安全策略（CORS 和摄像头权限），此项目**不能**直接双击 HTML 文件打开。你需要一个本地服务器。
+### 方法 1: 直接本地双击html文件打开（推荐）
 
-### 方法 1: 使用 VS Code (推荐)
+### 方法 2: 使用 VS Code
 1. 安装 VS Code 插件: **Live Server**.
 2. 右键点击 `index.html`，选择 **"Open with Live Server"**.
-
-### 方法 2: 使用 Python
-如果你安装了 Python，在项目目录下打开终端运行：
-```bash
-# Python 3
-python -m http.server 8000
-
 
 方法 3: Node.js
 ```bash
